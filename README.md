@@ -71,7 +71,7 @@ trends
 - `dashboard_screenshot.png` — screenshot of the final Tableau dashboard
 - `sample_cleaned_retail.csv` — sample of the cleaned dataset used for dashboarding
 
-Note: The full cleaned dataset and Tableau packaged workbook were not uploaded due to GitHub file size limits.
+Note: The raw Excel dataset was not uploaded due to file size limits. The cleaning script shows the data preparation workflow used to create the cleaned dataset for Tableau.
 
 ## What I Learned
 
