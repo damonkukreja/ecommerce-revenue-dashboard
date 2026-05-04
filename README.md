@@ -8,8 +8,7 @@ geographic sales concentration. The goal was to transform raw transaction
 data into business insights that could support revenue strategy, inventory 
 planning, and market expansion decisions.
 
-The final deliverable is an interactive Tableau dashboard supported by 
-Python-based data cleaning and transformation.
+The final deliverable is an interactive Tableau dashboard supported by Python-based data cleaning and transformation.
 
 ## Business Problem
 
@@ -68,7 +67,7 @@ trends
 
 ## Files
 
-- `cleaning_data.ipynb` — Python notebook used for cleaning and preparing the dataset
+- `data_cleaning.py` — Python script used for cleaning and preparing the dataset
 - `dashboard_screenshot.png` — screenshot of the final Tableau dashboard
 - `sample_cleaned_retail.csv` — sample of the cleaned dataset used for dashboarding
 
