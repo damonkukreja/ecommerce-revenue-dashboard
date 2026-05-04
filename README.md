@@ -68,11 +68,11 @@ trends
 
 ## Files
 
-- `cleaning_data.ipynb` — Python notebook used for cleaning and preparing 
-the dataset
+- `cleaning_data.ipynb` — Python notebook used for cleaning and preparing the dataset
 - `dashboard_screenshot.png` — screenshot of the final Tableau dashboard
-- `cleaned_retail.csv` — cleaned dataset used for dashboarding
-- `ecommerce_dashboard.twbx` — packaged Tableau workbook
+- `sample_cleaned_retail.csv` — sample of the cleaned dataset used for dashboarding
+
+Note: The full cleaned dataset and Tableau packaged workbook were not uploaded due to GitHub file size limits.
 
 ## What I Learned
 
